@@ -1,7 +1,5 @@
 # REACT-DATE-PICKER
 
-You can have a [quick look here](https://chandrahaswtw.github.io/react-date-picker-custom/)
-
 A custom built react date picker, which lets us to enter a date in the text-box or pick any date by clicking on calendar icon. It prompts us in case the entered date is invalid, This uses ```react-calendar-pane``` as dependency to use the calendar pane.
 
 ## OTHER INFORMATION
